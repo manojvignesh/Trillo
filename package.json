@@ -15,9 +15,9 @@
   "author": "Manoj",
   "license": "ISC",
   "devDependencies": {
-    "autoprefixer": "^7.1.4",
+    "autoprefixer": "^7.2.6",
     "concat": "^1.0.3",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.9.0",
     "npm-run-all": "^4.1.1",
     "postcss-cli": "^4.1.1"
   }
